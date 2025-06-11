@@ -1,0 +1,25 @@
+body {Add commentMore actions
+    background-color: aqua;
+  }
+  
+  a {
+    /* 
+    1 - padding-top, padding-bottom
+    2 - margin-top, margin-bottom
+    3 - width, height , min-width, min-height 
+    */
+    margin-top: 30px;
+    text-decoration: none;
+    background-color: rgb(221, 179, 233);
+    border-radius: 999px;
+    color: #000;
+    width: 100px;
+    padding: 8px 16px;
+    text-align: center;
+    display: inline-block;
+  }
+  Add commentMore actions
+  a:hover {
+    background-color: #e22d2d;
+    color: rgba(233, 15, 124, 0.884);
+  }
